@@ -1,0 +1,42 @@
+﻿KAUANE COIMBRA SOUSA.
+
+
+
+
+identificação: RN006
+Título: Cadastrar sabores e preços 
+Analista : Kauane Coimbra
+Data: 29/09/2022
+Descrição: Apresentar sabores e preços
+
+
+
+
+identificação: RF001
+Referência : RN006
+Analista : Kauane Coimbra
+Data: 29/09/2022
+Descrição: o sistema deve permitir o cadastro dos sabores e preços
+
+
+identificação:  RF002
+Referência: RF001
+Analista : Kauane Coimbra
+Data: 29/09/2022
+Descrição: o sistema deve cadastrar os sabores e preços
+
+
+Identificação: RNF003
+Referência: RF002
+Analista : Kauane Coimbra
+Data: 29/09/2022
+Descrição: o cadastro deve ser apresentado em cardápio
+
+
+
+
+Identificação: RNF004
+Referência: RF003
+Analista : Kauane Coimbra
+Data: 29/09/2022
+Descrição: o cardápio deve ser disponibilizado no instagram da pizzaria
